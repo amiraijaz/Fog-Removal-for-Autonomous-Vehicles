@@ -1,4 +1,5 @@
-🚘 Fog Removal System for Autonomous Vehicles
+## 🚘 Fog Removal System for Autonomous Vehicles
+
 This project is a real-time video processing system that enhances visibility in foggy conditions using image dehazing techniques and YOLOv8 object detection. It compares original and enhanced detection results side by side, making it ideal for evaluating the impact of preprocessing on object recognition in autonomous driving.
 
 
